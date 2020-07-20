@@ -34,4 +34,9 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Inside Airbnb for the data, the datasets are available under a Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication" license. You can find the Licensing for the data and other descriptive information at this link available [here](http://insideairbnb.com/get-the-data.html).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Inside Airbnb for the data, the datasets are available under a Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication" license. You can find the Licensing for the data and other descriptive information at this link available [here](http://insideairbnb.com/get-the-data.html).  
+Besides acknowlegments go to:
+- [forbesg-repo](https://github.com/forbesg-repo/airbnb-ct)
+- [Klever Mera](https://github.com/kmera/Boston_project)
+
+Finally, feel free to use the code here as you would like! 
