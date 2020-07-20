@@ -20,12 +20,12 @@ For this project, I was interestested in using Airbnb data provided at http://in
 3. What are the prices of accommodations listed?
 4. What are the reviews and ratings of previous travelers?
 
-The datasets that we used describe the listing activity of homestays in the island between April 2020 to April 2021, and it is basically a snapshot of home-stays available at a particular time, in this case between 23rd and 25th of April of 2020.
+The datasets that we used describe the listing activity of homestays in the island between April 2020 to April 2021, and it is basically a snapshot of home-stays available at a particular time, in this case between 23rd and 25th of April of 2020. The datasets are available [here](http://insideairbnb.com/get-the-data.html)
 
 
 ## File Descriptions <a name="files"></a>
 
-There is one notebook available here to showcase work related to the above questions. The other files are the datasets used for the analysis. 
+There is one notebook available here to showcase work related to the above questions. 
 
 
 ## Results<a name="results"></a>
